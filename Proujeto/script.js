@@ -12,7 +12,7 @@ const perguntas = [
             {
                 texto: "Verde",
                 afirmacao: "Você foi parar no Passado. ",
-                imagem: "https://mir-s3-cdn-cf.behance.net/project_modules/hd/e6ca9e36738259.5727c4e790a74.gif",
+                imagem: "https://cdna.artstation.com/p/assets/images/images/072/801/078/original/avant-aristides-lore-animation-x.gif?1708246218",
                 nextQuestionIndex: 1  
             },
             {
@@ -25,7 +25,7 @@ const perguntas = [
     },
     // Question index 1
     {
-        enunciado: "O objeto era uma máquina do tempo!! você foi parar no passado, na época medieval em meio a uma guerra, você olha para o objeto e vê o botão brilhando novamente",
+        enunciado: "O objeto era uma máquina do tempo!! você foi parar no passado, na época medieval na frente de um castelo, você olha para o objeto e vê o botão brilhando novamente",
         alternativas: [
             {
                 texto: "Apertar o botão",
@@ -42,7 +42,7 @@ const perguntas = [
             {
                 texto: "Apertar o botão",
                 afirmacao: "Você novamente foi para o futuro.",
-                imagem: "https://64.media.tumblr.com/9cb62900b925709918bb373afe661912/tumblr_ohvig5GRWg1rldv4go1_1280.gif",
+                imagem: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/047668fb-fcf5-4f67-8225-d13cc4435f67/dbip5tq-8bf637f5-5221-46f4-8532-d5bdde7ba763.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0NzY2OGZiLWZjZjUtNGY2Ny04MjI1LWQxM2NjNDQzNWY2N1wvZGJpcDV0cS04YmY2MzdmNS01MjIxLTQ2ZjQtODUzMi1kNWJkZGU3YmE3NjMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DA8W5K8y7AJFQuZfEIcT09lNxt12LNHn7f7Z2S2BRf4",
                 nextQuestionIndex: 4
             }
         ]
@@ -54,7 +54,7 @@ const perguntas = [
             {
                 texto: "Apertar o botão.",
                 afirmacao: "Você foi para o passado?.",
-                imagem: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1ab2da81799863.5d0a549ef0b56.png",
+                imagem: "https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif",
                 nextQuestionIndex: 5
             }
         ]
@@ -66,7 +66,7 @@ const perguntas = [
             {
                 texto: "Apertar o botão.",
                 afirmacao: "Você foi para o futuro?.",
-                imagem: "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1ab2da81799863.5d0a549ef0b56.png",
+                imagem: "https://cdn.pixabay.com/animation/2022/11/16/14/56/14-56-49-778_512.gif",
                 nextQuestionIndex: 5  
             }
         ]
